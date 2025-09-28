@@ -23,7 +23,7 @@ The popup interface allows you to generate comments from any LinkedIn page:
 - Real-time post content preview
 - Multiple generation options
 
-![LinkedIn Comment Generator popup](../screenshots/popup.png)
+![LinkedIn Comment Generator popup](https://raw.githubusercontent.com/ShIvAmKaUsHaL69/linkedin-commentor/refs/heads/main/screenshots/popup.png)
 
 ### In-Page Comment Panel
 Generate comments directly on LinkedIn posts:
@@ -31,7 +31,7 @@ Generate comments directly on LinkedIn posts:
 - Context-aware comment generation
 - Seamless integration with LinkedIn's UI
 
-![LinkedIn Comment Generator Screenshot](../screenshots/option.png)
+![LinkedIn Comment Generator Screenshot](https://raw.githubusercontent.com/ShIvAmKaUsHaL69/linkedin-commentor/refs/heads/main/screenshots/option.png)
 
 ## 🛠️ Installation
 
