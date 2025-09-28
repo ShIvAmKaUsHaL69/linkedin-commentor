@@ -15,17 +15,23 @@ An intelligent Chrome extension that generates AI-powered comments for LinkedIn 
 
 ## 🖼️ Screenshots
 
+
+
 ### Extension Popup
 The popup interface allows you to generate comments from any LinkedIn page:
 - Clean, modern design with LinkedIn's color scheme
 - Real-time post content preview
 - Multiple generation options
 
+![LinkedIn Comment Generator popup](../screenshots/popup.png)
+
 ### In-Page Comment Panel
 Generate comments directly on LinkedIn posts:
 - Appears as a floating panel next to posts
 - Context-aware comment generation
 - Seamless integration with LinkedIn's UI
+
+![LinkedIn Comment Generator Screenshot](../screenshots/option.png)
 
 ## 🛠️ Installation
 
@@ -36,8 +42,7 @@ Generate comments directly on LinkedIn posts:
 
 1. **Download the Extension**
    ```bash
-   git clone https://github.com/yourusername/linkedin-comment-generator.git
-   cd linkedin-comment-generator
+   git clone https://github.com/ShIvAmKaUsHaL69/linkedin-commentor.git
    ```
 
 2. **Open Chrome Extensions Page**
@@ -46,7 +51,7 @@ Generate comments directly on LinkedIn posts:
 
 3. **Load the Extension**
    - Click "Load unpacked"
-   - Select the `linkedin-comment` folder
+   - Select the folder
    - The extension icon should appear in your toolbar
 
 4. **Configure API (Required)**
@@ -97,16 +102,6 @@ Add hints to guide the AI:
 Not happy with the first result? Click "Regenerate" to get different variations while keeping the same tone and hints.
 
 ## ⚙️ Configuration
-
-### API Setup
-
-The extension uses Shiv AI for comment generation. Configure your API endpoint in `background.js`:
-
-```javascript
-const API_ENDPOINTS = {
-    shiv: 'YOUR_API_ENDPOINT_HERE'
-};
-```
 
 ### Customization
 
@@ -286,10 +281,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/linkedin-comment-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/linkedin-comment-generator/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/ShIvAmKaUsHaL69/linkedin-commentor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ShIvAmKaUsHaL69/linkedin-commentor/discussions)
+- **Email**: shivamkaushal181@gmail.com
 
 ---
 
-Made with ❤️ for the LinkedIn community. Happy networking! 🌟
+Made with ❤️ by Shivam for the LinkedIn community. Happy networking! 🌟
